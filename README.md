@@ -1,6 +1,12 @@
+# Movie Trailer Website
+
+---
+
 ## Introduction
 
-This is project 1 for Udacity's Full Stack Web Developer Nanodegree. Main objective of this project:
+This is Project 1 for Udacity's Full Stack Web Developer Nanodegree.
+
+Main objective of this project:
 
 * Dynamically create a movie trailer website using Python 
 
@@ -22,8 +28,10 @@ These are the files that come with this project:
 
 ## Running The Project
 
-In a shell, run the *entertainment_center.py* Python script:
+1. Clone the repository 
 
-    > python entertainment_center.py
+2. Run the *entertainment_center.py* Python script in a shell:
+
+        > python entertainment_center.py
 	
-A new file *fresh_tomatoes.html* will automatically be generated and opened up in your web browser.	
+    A new file *fresh_tomatoes.html* will automatically be generated and opened up in your web browser.	
